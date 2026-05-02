@@ -1,0 +1,30 @@
+CLINICA SALUD PLUS - INFORMACION GENERAL
+
+HORARIOS DE ATENCION:
+- Lunes a Viernes: 8:00 a 20:00 horas
+- Sabado: 9:00 a 14:00 horas
+- Domingo: Cerrado
+
+ESPECIALIDADES DISPONIBLES:
+- Medicina General
+- Cardiologia
+- Pediatria
+- Ginecologia
+- Traumatologia
+- Dermatologia
+
+MEDICOS Y HORARIOS:
+- Dr. Juan Martinez (Medicina General): Lunes, Miercoles y Viernes 9:00-13:00
+- Dra. Ana Lopez (Cardiologia): Martes y Jueves 10:00-14:00
+- Dr. Carlos Rojas (Pediatria): Lunes a Viernes 8:00-12:00
+
+PREPARACION EXAMENES:
+- Examen de sangre: Ayuno de 8 horas minimo, no tomar medicamentos antes
+- Ecografia abdominal: Ayuno de 6 horas, beber 1 litro de agua 1 hora antes
+- Electrocardiograma: No requiere preparacion especial
+
+PREGUNTAS FRECUENTES:
+- Para agendar hora llamar al 600 123 4567
+- Los resultados de examenes demoran entre 24 y 48 horas
+- Se aceptan convenios con Fonasa e Isapres
+- Estacionamiento gratuito para pacientes
