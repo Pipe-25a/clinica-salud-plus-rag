@@ -21,12 +21,12 @@ Responde preguntas frecuentes usando documentos internos de la clínica.
    OPENAI_API_KEY=tu_clave_aqui
 ## Ejecución
    python src/rag_pipeline.py
-## Estructura del proyecto
+## Estructura 
 - src/rag_pipeline.py → Código principal del RAG
 - data/info_clinica.txt → Documentos de la clínica
 - requirements.txt → Dependencias necesarias
 ## Tecnologías usadas
-- LangChain → Framework para el pipeline RAG
+- LangChain → Framework para el RAG
 - ChromaDB → Base de datos vectorial
-- OpenAI GPT-4o-mini → Modelo de lenguaje
+- OpenAI GPT-4o-mini → Modelo 
 - Python → Lenguaje de programación
