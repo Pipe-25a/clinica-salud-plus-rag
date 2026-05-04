@@ -1,0 +1,1 @@
+Para que el archivo funcione es necesario un Archivo donde deve ir El .ev y luego en la consola ejecutar el siguiente codigo : python src/rag_pipeline.py
