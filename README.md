@@ -30,3 +30,6 @@ Responde preguntas frecuentes usando documentos internos de la clínica.
 - ChromaDB → Base de datos vectorial
 - OpenAI GPT-4o-mini → Modelo 
 - Python → Lenguaje de programación
+## Importante
+   para que funcione , es necesario tener el .ev y ademas ejecutar en la terminal
+   el siguiente codigo: python src/rag_pipeline.py
