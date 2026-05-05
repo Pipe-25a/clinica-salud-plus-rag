@@ -33,3 +33,6 @@ Responde preguntas frecuentes usando documentos internos de la clínica.
 ## Importante
    para que funcione , es necesario tener el .ev y ademas ejecutar en la terminal
    el siguiente codigo: python src/rag_pipeline.py
+   
+##Evidencia Del Resultado
+<img width="1088" height="226" alt="image" src="https://github.com/user-attachments/assets/84051bd4-d1c1-415e-ba8c-8fc6d393094b" />
